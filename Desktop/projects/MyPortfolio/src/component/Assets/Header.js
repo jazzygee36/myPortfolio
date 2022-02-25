@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import "./Style.css";
-import logo3 from "../Assets/logo3.jpg";
 
 const Header = () => {
   const [scrollPosition, setScrollPosition] = useState(window.scrollY);
@@ -33,7 +32,7 @@ const Header = () => {
               >
                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                 <a className="navbar-brand" href="#">
-                  <img src={logo3} alt="appear" width="150" />
+                  {/* <img src={logo3} alt="appear" width="150" /> */}
                 </a>
                 <button
                   className="navbar-toggler tog navbar-toggler-right"
@@ -50,7 +49,7 @@ const Header = () => {
                   className="collapse  we navbar-collapse justify-content-end"
                   id="navbarSupportedContent"
                 >
-                  <ul className="navbar-nav">
+                  <ul className="navbar-nav mt-3 mb-2">
                     <li className="nav-item">
                       {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                       <a

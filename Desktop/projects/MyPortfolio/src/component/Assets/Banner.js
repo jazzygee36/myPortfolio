@@ -8,7 +8,7 @@ const Banner = () => {
         <div className="row main-banner-content justify-content-center text-center">
           <div className="col-md-6">
             <h1>
-              i'm MESIOYE SAMSON{" "}
+              I'm MESIOYE SAMSON{" "}
               <span className="p">
                 <br /> a Full Stack Developer based in Lagos
               </span>

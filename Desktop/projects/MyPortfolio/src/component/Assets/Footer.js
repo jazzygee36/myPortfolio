@@ -16,23 +16,23 @@ const Footer = () => {
 
             <ul className="social  float-md-left float-lft">
               <li>
-                <a href="http://linkedin.com/in/babatunde-atijosan-b70b97207">
+                <a href="https://www.linkedin.com/in/samson-mesioye-54b35a20a/">
                   <i class="fab fa-linkedin"></i>
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="https://gmail.com">
                   <i class="fas fa-envelope"></i>
                 </a>
-              </li>
+              </li> */}
               <li>
-                <a href="https://mobile.twitter.com/olatund36971024">
+                <a href="https://twitter.com/SamsonMesi">
                   <i class="fab fa-twitter"></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/drumzee_/">
-                  <i class="fab fa-instagram"></i>
+                <a href="https://web.facebook.com/profile.php?id=100070569102619">
+                  <i class="fab fa-facebook"></i>
                 </a>
               </li>
             </ul>
