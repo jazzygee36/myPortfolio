@@ -13,17 +13,17 @@ const Projects = () => {
           <div className="row">
             <div className="col-12 row">
               <div className="col-lg-3 col-md-6 col-sm-12">
-                <a href="http://plaqad.com/">Plaqad.com</a>
+                <a href="https://hstage.plaqad.com/">plaqad</a>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-12">
-                <a href="https://bervidson.com/">Bervidson.com</a>
+                <a href="https://fuddle.ai/">Fuddle</a>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-12">
-                <a href="https://min.ng/">Min.ng</a>
+                <a href="https://min.ng/">Min</a>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-12">
                 {" "}
-                <a href="http://bedge.com/">Bedge.com</a>
+                <a href="http://bedge.com/">Bedge</a>
               </div>
             </div>
           </div>

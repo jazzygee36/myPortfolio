@@ -20,7 +20,7 @@ const Resume = () => {
             <div className="resume-block mt-4">
               <h2>2020-2020</h2>
               <h3>Frontend Developer</h3>
-              <h4>Bedge Concept</h4>
+              {/* <h4>Bedge Concept</h4> */}
               <p>
                 Designs and develops scalable, reusable, secure and innovative
                 solutions for Web sites and applications.
@@ -30,7 +30,7 @@ const Resume = () => {
             <div className="resume-block mt-4">
               <h2>2021-2022</h2>
               <h3>Mid Software Developer</h3>
-              <h4>Plaqad</h4>
+              {/* <h4>Plaqad</h4> */}
               <p>
                 Designed layouts on the web pages responsive for smart phones,
                 tablets and Personal desktops.
@@ -41,18 +41,18 @@ const Resume = () => {
           <div className="col-md-6">
             <div className="resume-block mt-4">
               <h2>2021-2021</h2>
-              <h3>Software Engineering </h3>
-              <h4>MIN</h4>
+              <h3>Backend Engineering </h3>
+              {/* <h4>MIN</h4> */}
               <p>
-                Develop high performance customer facing E-commerce using
-                JavaScript, React JS, Next JS and Materia ui.
+                focusing on databases, back-end logic, application programming
+                interface (APIs), architecture, and servers.
               </p>
             </div>
 
             <div className="resume-block mt-4">
               <h2>2020-2020</h2>
               <h3>Freelance Frontend Developer</h3>
-              <h4>Aggital Works</h4>
+              {/* <h4>Aggital Works</h4> */}
               <p>
                 Reviewed project's to follow better convention and pattern
                 using: REACT.JS

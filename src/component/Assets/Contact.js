@@ -24,7 +24,7 @@ const Contact = () => {
               <i className="fas fa-phone"></i>
             </span>
             <h2>CONTACT NUMBER</h2>
-            <p>08181256788</p>
+            <p>08136668316</p>
           </div>
 
           <div className="col-md-3">

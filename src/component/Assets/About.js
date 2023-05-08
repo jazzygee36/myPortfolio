@@ -36,7 +36,7 @@ const About = () => {
               </li>
               <li className="d-flex">
                 <span>
-                  <b>Phone:</b> <span className="num"> 08181256788</span>
+                  <b>Phone:</b> <span className="num"> 08136668316</span>
                 </span>
               </li>
               <li className="d-flex">

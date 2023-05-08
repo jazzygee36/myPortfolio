@@ -47,9 +47,9 @@ const Skills = () => {
                 aria-valuenow="95"
                 aria-valuemin="0"
                 aria-valuemax="100"
-                style={{ width: "50%" }}
+                style={{ width: "65%" }}
               >
-                50
+                65
               </div>
             </div>
           </div>
