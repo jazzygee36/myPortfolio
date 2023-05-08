@@ -28,32 +28,6 @@ const Projects = () => {
             </div>
           </div>
         </div>
-
-        {/* <div className="row d-flex">
-          <div className="col-md-12 mt-4">
-            <div className="">
-              <a href="http://plaqad.com/">Plaqad.com</a>
-            </div>
-          </div>
-
-          <div className="col-md-12 mt-4">
-            <div className="">
-              <a href="https://bervidson.com/">Bervidson.com</a>
-            </div>
-          </div>
-
-          <div className="col-md-12 mt-4">
-            <div className="">
-              <a href="https://min.ng/">Min.ng</a>
-            </div>
-          </div>
-
-          <div className="col-md-12 mt-4">
-            <div className="">
-              <a href="http://bedge.com/">Bedge.com</a>
-            </div>
-          </div>
-        </div> */}
       </div>
     </div>
   );
