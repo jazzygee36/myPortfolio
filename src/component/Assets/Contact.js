@@ -40,7 +40,7 @@ const Contact = () => {
               <i class="fab fa-linkedin"></i>
             </span>
             <h2>LINKEDIN</h2>
-            <p>"https://www.linkedin.com/in/samson-mesioye-54b35a20a/"</p>
+            <p>"https://www.linkedin.com/in/samsonmesioye/"</p>
           </div>
         </div>
       </div>

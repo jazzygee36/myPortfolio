@@ -18,17 +18,20 @@ const Resume = () => {
         <div className="row mt-4">
           <div className="col-md-6">
             <div className="resume-block mt-4">
-              <h2>2020-2020</h2>
-              <h3>Frontend Developer</h3>
+              {/* <h2>2020-2020</h2> */}
+              <h3>Web Developer</h3>
               {/* <h4>Bedge Concept</h4> */}
               <p>
                 Designs and develops scalable, reusable, secure and innovative
-                solutions for Web sites and applications.
+                solutions for Web sites and applications also ensure that sites
+                meet user expectations by ensuring they look good, run smoothly
+                and offer easy access points with no loading issues between
+                pages or error messages.
               </p>
             </div>
 
             <div className="resume-block mt-4">
-              <h2>2021-2022</h2>
+              {/* <h2>2021-2022</h2> */}
               <h3>Mid Software Developer</h3>
               {/* <h4>Plaqad</h4> */}
               <p>
@@ -40,22 +43,23 @@ const Resume = () => {
 
           <div className="col-md-6">
             <div className="resume-block mt-4">
-              <h2>2021-2021</h2>
-              <h3>Backend Engineering </h3>
+              {/* <h2>2021-2021</h2> */}
+              <h3>Mobile Developer </h3>
               {/* <h4>MIN</h4> */}
               <p>
-                focusing on databases, back-end logic, application programming
-                interface (APIs), architecture, and servers.
+                i specialise in designing, building, and maintaining
+                applications for mobile devices using React native and other
+                mobile application tools
               </p>
             </div>
 
             <div className="resume-block mt-4">
-              <h2>2020-2020</h2>
+              {/* <h2>2023</h2> */}
               <h3>Freelance Frontend Developer</h3>
               {/* <h4>Aggital Works</h4> */}
               <p>
                 Reviewed project's to follow better convention and pattern
-                using: REACT.JS
+                using: JavaScript, REACT.JS, Next.Js, React Native
               </p>
             </div>
           </div>

@@ -8,9 +8,12 @@ const Banner = () => {
         <div className="row main-banner-content justify-content-center text-center">
           <div className="col-md-6">
             <h1>
-              I'm MESIOYE SAMSON{" "}
+              MESIOYE SAMSON{" "}
               <span className="p">
-                <br /> a Full Stack Developer based in Lagos
+                <br /> Web and Mobile App Developer | React JS | React Native |
+                Next JS | Node JS | HTML5 | CSS3 | JavaScript | MongoDB | Git |
+                API Testing | experience in delivering high-performance Web &
+                Mobile applications.
               </span>
             </h1>
 

@@ -11,7 +11,9 @@ const Skills = () => {
 
         <div className="row">
           <div className="col-md-6">
-            <h2 className="head">HTML/CSS/Materia UI/Chakra UI</h2>
+            <h2 className="head">
+              HTML/CSS/Materia UI/Chakra UI/Style Components/Tailwind Css
+            </h2>
             <div className="progress">
               <div
                 className="role"
@@ -33,9 +35,9 @@ const Skills = () => {
                 aria-valuenow="95"
                 aria-valuemin="0"
                 aria-valuemax="100"
-                style={{ width: "70%" }}
+                style={{ width: "80%" }}
               >
-                70
+                80
               </div>
             </div>
 
@@ -47,9 +49,9 @@ const Skills = () => {
                 aria-valuenow="95"
                 aria-valuemin="0"
                 aria-valuemax="100"
-                style={{ width: "65%" }}
+                style={{ width: "67%" }}
               >
-                65
+                67
               </div>
             </div>
           </div>
@@ -63,9 +65,9 @@ const Skills = () => {
                 aria-valuenow="95"
                 aria-valuemin="0"
                 aria-valuemax="100"
-                style={{ width: "65%" }}
+                style={{ width: "69%" }}
               >
-                65
+                69
               </div>
             </div>
 
@@ -77,9 +79,9 @@ const Skills = () => {
                 aria-valuenow="95"
                 aria-valuemin="0"
                 aria-valuemax="100"
-                style={{ width: "55%" }}
+                style={{ width: "75%" }}
               >
-                55
+                75
               </div>
             </div>
 

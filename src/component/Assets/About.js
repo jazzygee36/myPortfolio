@@ -11,10 +11,9 @@ const About = () => {
           <div className="col-md-6">
             <h1>About Me</h1>
             <p>
-              Self-motivated Web and App Developer with years of experience
-              working on multiple projects. Passionate and hardworking with a
-              penchant for meeting deadlines. Interested in roles indulging best
-              practices and offering diverse customer projects.
+              An innovative Software Developer with years of experience
+              specializing in software development tools to help organizations
+              change and reaching out to the world.
             </p>
             <ul className="about-info px-md-0 px-2">
               <li className="d-flex">

@@ -13,17 +13,21 @@ const Projects = () => {
           <div className="row">
             <div className="col-12 row">
               <div className="col-lg-3 col-md-6 col-sm-12">
-                <a href="https://hstage.plaqad.com/">plaqad</a>
+                <a href="https://sendbuddie-web.vercel.app//">Sendbuddie App</a>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-12">
-                <a href="https://fuddle.ai/">Fuddle</a>
+                <a href="https://hstage.plaqad.com/">Plaqad</a>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-12">
-                <a href="https://min.ng/">Min</a>
+                <a href="https://luminaryexchange.netlify.app/">
+                  luminaryexchange
+                </a>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-12">
                 {" "}
-                <a href="http://bedge.com/">Bedge</a>
+                <a href="https://journalistdev.plaqad.com/login">
+                  journalist App
+                </a>
               </div>
             </div>
           </div>
