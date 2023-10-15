@@ -6,7 +6,7 @@ const Banner = () => {
     <div id="banner">
       <div className="container">
         <div className="row main-banner-content justify-content-center text-center">
-          <div className="col-md-6">
+          <div className="col-lg-9">
             <h1>
               MESIOYE SAMSON{" "}
               <span className="p">
